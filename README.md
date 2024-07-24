@@ -7,7 +7,7 @@ Welcome to the official website of Springdale Public School, built using React a
 
 Check out the live demo of the project [here](https://school-website-theta-three.vercel.app/).
 
-![Screenshot of the Home Page](https://github.com/HusainMahtab/school-website/blob/main/assets/homepage_screenshot.png)
+![Screenshot of the Home Page](https://github.com/HusainMahtab/school-website/blob/main/src/assets/homepage_screenshot.png)
 
 ## Features
 
